@@ -1,4 +1,4 @@
-![alt text](!(https://user-images.githubusercontent.com/118333524/203055397-bde18cd4-64ec-4380-bdfb-989fd52e4cf1.png))
+![image](https://i.pinimg.com/originals/b5/d5/78/b5d57815b449355dac7978970267632b.jpg)
 
 
 **Hey there!👋**
@@ -9,4 +9,4 @@
 
 <span style="color: pink">*Never call me Althea, just kidding 🤭*</span>
 
-<span style="color:dark pink">MY CLASS SCHEDULE</span>
+<span style="color:darkpink">MY CLASS SCHEDULE</span>
