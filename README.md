@@ -5,9 +5,12 @@
 
 *Welcome to my safe space ☁🍃*
 
-`<span style="color: pink">*I am Shulaika Althea C. Almazar, you can call me Shulaika, but I prefer you call me Shulai/Lai 💐*</span>
+```
+<span style="color: pink">*I am Shulaika Althea C. Almazar, you can call me Shulaika, but I prefer you call me Shulai/Lai 💐*</span>
 
 <span style="color: pink">*Never call me Althea, just kidding 🤭*</span>`
+
+```
 
 **Let me walk you through my life. ✨**
 
