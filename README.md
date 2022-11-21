@@ -1,4 +1,4 @@
-![alt text](![image](https://user-images.githubusercontent.com/118333524/203055397-bde18cd4-64ec-4380-bdfb-989fd52e4cf1.png))
+![alt text](!(https://user-images.githubusercontent.com/118333524/203055397-bde18cd4-64ec-4380-bdfb-989fd52e4cf1.png))
 
 
 **Hey there!👋**
