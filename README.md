@@ -4,4 +4,4 @@
 *Welcome to my safe space ☁🍃*
 
 
-<span style="color:blue">some *blue* text</span>
+<span style="color:pink">MY CLASS SCHEDULE</span>
