@@ -9,6 +9,10 @@
   
   
 
+<img src="https://i.pinimg.com/564x/05/f8/e2/05f8e2a1d64c1bf5569a8e1ce7c6eeb8.jpg" data-canonical-src="![image](https://user-images.githubusercontent.com/118333524/203303356-9e97e7a8-44a4-40fa-9856-643f40266946.png)
+" width="100" height="150" />
+
+
 <span style="color: pink">*I am Shulaika Althea C. Almazar, you can call me Shulaika, but I prefer you call me Shulai/Lai 💐*</span>
 
 <span style="color: pink">*Never call me Althea, just kidding 🤭*</span>
