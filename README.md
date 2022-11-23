@@ -30,4 +30,18 @@ I am in my 3rd year in High School - Grade 9. I chose to spend my four years of 
 
 <span style="color:red">MY CLASS SCHEDULE</span>
 
+|         |<span style="color:">DAY 1E</span>| DAY 2| DAY3 | DAY 4| DAY 5| 
+|---------|-----|------|------|------|------|
+|7:35-8:00|  HR | HR   |  HR  |  HR  |  HR  |
+|8:10-9:00|  PE |MUSIC |PE    |study period|SCIENCE|
+|9:10-10:00|ENGLISH|SCIENCE|ENGLISH|ENGLISH|SCIENCE|
+|10:10-11:00|ENGLISH|SCIENCE|SCIENCE|ENGLISH|ENGLISH|
+|11:10-12:00|LUNCH BREAK||LUNCH BREAK||LUNCH BREAK||LUNCH BREAK||LUNCH BREAK|
+|12:10-1:00|SCIENCE|COMPUTER|MUSIC|COMPUTER|study period|
+|1:10-2:00|SCIENCE|ENGLISH|COMPUTER|PE|COMPUTER|
+|2:00-2:10|examen|examen|examen| |   |
+|2:10-3:00||||study period|MUSIC|
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/06HL4z0CvFAxyc27GXpf02?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6HvZYsbFfjnjFrWF950C9d?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
