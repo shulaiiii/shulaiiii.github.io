@@ -69,3 +69,8 @@
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6oMW3QAs99PBpVfrapWXrZ?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**<span style="color: pink">--------------------------------------------------------------------------</span>**
+
+[<span style="color:blue">`facebook`</span>](https://www.facebook.com/shulaika.almazar)
+[<span style="color:magenta">`instagram`</span>](https://www.instagram.com/shulaiiiiiii/)
