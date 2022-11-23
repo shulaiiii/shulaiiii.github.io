@@ -72,13 +72,13 @@
 
 **<span style="color: pink">--------------------------------------------------------------------------</span>**
 
-- learning management system [<span style="color:grey">`lms`</span>](https://jhsportal.adnu.edu.ph/my/)
-- jhs portal [<span style="color:grey">`portal`</span>](https://jhsos.adnu.edu.ph/)
-- gmail [<span style="color:grey">`gbox`</span>](https://mail.google.com/mail/u/0/#inbox)
-- google drive [<span style="color:grey">`gdrive`</span>](https://drive.google.com/drive/u/0/my-drive)
-- google docs [<span style="color:grey">`gdocs`</span>](https://docs.google.com/document/u/0/?tgif=d)
-- google classroom [<span style="color:grey">`gclassroom`</span>](https://classroom.google.com/u/0/h)
-- canva [<span style="color:grey">`canva`</span>](https://www.canva.com/)
+- 💻 learning management system [<span style="color:grey">`lms`</span>](https://jhsportal.adnu.edu.ph/my/)
+- 💻 jhs portal [<span style="color:grey">`portal`</span>](https://jhsos.adnu.edu.ph/)
+- 📩 gmail [<span style="color:grey">`gbox`</span>](https://mail.google.com/mail/u/0/#inbox)
+- 📂 google drive [<span style="color:grey">`gdrive`</span>](https://drive.google.com/drive/u/0/my-drive)
+- 📄 google docs [<span style="color:grey">`gdocs`</span>](https://docs.google.com/document/u/0/?tgif=d)
+- 👩‍🏫 google classroom [<span style="color:grey">`gclassroom`</span>](https://classroom.google.com/u/0/h)
+- 🖼️ canva [<span style="color:grey">`canva`</span>](https://www.canva.com/)
 
 
 **<span style="color: pink">--------------------------------------------------------------------------</span>**
