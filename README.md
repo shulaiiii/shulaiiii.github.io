@@ -28,7 +28,7 @@ I am in my 3rd year in High School - Grade 9. I chose to spend my four years of 
 *Being a student is one of the most meaningful things we can be in life, I suppose. However, it can also be a phase wherein we may encounter the most tragic moments. But take this tip from me, we can only live the fullest of our high school years if we try. Here, we may meet the people who will stay with us until we grow up or the people who will be with us temporarily to teach us the things we need to learn about life, but we shall always learn to cherish them. In short, being in high school is both a magic and a scary moment; but we shall never be afraid.* 📖✨
 
 
-<span style="color:red">MY CLASS SCHEDULE</span>
+<span style="color:red">***MY CLASS SCHEDULE***</span>
 
 |         |<span style="color:magenta">**DAY 1 🌷**</span>| <span style="color:magenta">**DAY 2 ☀️**</span>| <span style="color:magenta">**DAY 3 🌼**</span> | <span style="color:magenta">**DAY 4 🌈**</span>|<span style="color:magenta">**DAY 5 👑**</span>| 
 |---------|-----|------|------|------|------|
