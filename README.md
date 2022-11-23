@@ -6,7 +6,7 @@
 
 ><span style="color: grey">**Hey there!👋**</span>
 
-><span style="color: grey">*Welcome to my safe space ☁🍃*</span>
+><span style="color: grey">*Welcome to my safe space. ☁🍃*</span>
 
 ><span style="color: grey">**Let me walk you through my life. ✨**</span>
   
