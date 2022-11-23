@@ -54,6 +54,8 @@
 |<span style="color:magenta">**2:00-2:10**</span>|***examen***|***examen***|***examen***| |   |
 |<span style="color:magenta">**2:10-3:00**</span>||||***study period***|🎶***music***🎶|
 
+[<span style="color:pink">`class schedule 📅`</span>](https://docs.google.com/spreadsheets/d/1StSO-4w4YGMcVNkV_uAYCMGAZ_i5rjrXj7O_jBaCrQA/edit#gid=0)
+
 **<span style="color: pink">--------------------------------------------------------------------------</span>**
 
 - [✅] attend ansgo meetings
