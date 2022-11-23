@@ -33,6 +33,7 @@
 
 **<span style="color: pink">...............................................................................................................................................................................................................................</span>**
 
+
 ><span style="color: black">***Here's my Class Schedule and other schedules I have as a student leader; this shows how hectic a student's day can be.*** 🥱</span>
 
 
