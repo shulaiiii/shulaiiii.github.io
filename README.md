@@ -1,3 +1,5 @@
+**<span style="color: pink">--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</span>**
+
 ![image](https://i.pinimg.com/originals/b5/d5/78/b5d57815b449355dac7978970267632b.jpg)
 
 **<span style="color: pink">--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</span>**
@@ -40,7 +42,7 @@
 
 <span style="color:red">***MY CLASS SCHEDULE 📅***</span>
 
-|         |<span style="color:magenta">**DAY 1 🌷**</span>| <span style="color:magenta">**DAY 2 ☀️**</span>| <span style="color:magenta">**DAY 3 🌼**</span> | <span style="color:magenta">**DAY 4 🌈**</span>|<span style="color:magenta">**DAY 5 👑**</span>| 
+|         |<span style="color:grey">**DAY 1 🌷**</span>| <span style="color:magenta">**DAY 2 ☀️**</span>| <span style="color:magenta">**DAY 3 🌼**</span> | <span style="color:magenta">**DAY 4 🌈**</span>|<span style="color:magenta">**DAY 5 👑**</span>| 
 |---------|-----|------|------|------|------|
 |<span style="color:magenta">**7:35-8:00**</span>|***hr***|***hr***|***hr***|***hr***|***hr***|
 |<span style="color:magenta">**8:10-9:00**</span>|  🏃‍***pe***🏃‍|🎶***music***🎶|🏃‍***pe***🏃‍|***study period***|🔬***science***🔬|
