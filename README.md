@@ -14,9 +14,9 @@
 
 **<span style="color: pink">...............................................................................................................................................................................................................................</span>**
 
-<span style="color: pink">*I am Shulaika Althea C. Almazar, you can call me Shulaika, but I prefer you call me Shulai/Lai 💐*</span>
+<span style="color: magenta">*I am Shulaika Althea C. Almazar, you can call me Shulaika, but I prefer you call me Shulai/Lai 💐*</span>
 
-<span style="color: pink">*Never call me Althea, just kidding 🤭*</span>
+<span style="color: magenta">*Never call me Althea, just kidding 🤭*</span>
   
 **<span style="color: pink">...............................................................................................................................................................................................................................</span>**
 
