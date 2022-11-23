@@ -33,9 +33,11 @@
 
 **<span style="color: pink">...............................................................................................................................................................................................................................</span>**
 
+>***Here's my Class Schedule and other schedules I have as a student leader; this shows how hectic a student's day can be.*** 🥱
 
 
-<span style="color:red">***MY CLASS SCHEDULE***</span>
+
+<span style="color:red">***MY CLASS SCHEDULE 📅***</span>
 
 |         |<span style="color:magenta">**DAY 1 🌷**</span>| <span style="color:magenta">**DAY 2 ☀️**</span>| <span style="color:magenta">**DAY 3 🌼**</span> | <span style="color:magenta">**DAY 4 🌈**</span>|<span style="color:magenta">**DAY 5 👑**</span>| 
 |---------|-----|------|------|------|------|
@@ -48,6 +50,21 @@
 |<span style="color:magenta">**1:10-2:00**</span>|🔬***science***🔬|📖***english***📖|💻***computer***💻|🏃‍***pe***🏃‍|💻***computer***💻|
 |<span style="color:magenta">**2:00-2:10**</span>|***examen***|***examen***|***examen***| |   |
 |<span style="color:magenta">**2:10-3:00**</span>||||***study period***|🎶***music***🎶|
+
+**<span style="color: pink">..............................................................</span>**
+
+- [✅] attend ansgo meetings
+- [✅] request budget proposals
+- [✅] write project proposals
+- [✅] participate in ansgo's activities
+- [✅] do tasks assigned to me
+
+**<span style="color: pink">..............................................................</span>**
+
+
+
+
+
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/06HL4z0CvFAxyc27GXpf02?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
