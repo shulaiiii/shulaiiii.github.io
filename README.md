@@ -44,7 +44,7 @@
 
 |         |<span style="color:magenta">**DAY 1 🌷**</span>| <span style="color:magenta">**DAY 2 ☀️**</span>| <span style="color:magenta">**DAY 3 🌼**</span> | <span style="color:magenta">**DAY 4 🌈**</span>|<span style="color:magenta">**DAY 5 👑**</span>| 
 |---------|-----|------|------|------|------|
-|<span style="color:magenta">**7:35-8:00**</span>|***hr***|***hr***|***hr***|***hr***|***hr***|
+|<span style="color:magenta">**7:35-8:00**</span>|***homeroom***|***homeroom***|***homeroom***|***homeroom***|***homeroom***|
 |<span style="color:magenta">**8:10-9:00**</span>|  ***pe*** 🏃‍|***music*** 🎶|***pe*** 🏃‍|***study period***|***science*** 🔬|
 |<span style="color:magenta">**9:10-10:00**</span>|***english*** 📖|***science*** 🔬|***english*** 📖|***english*** 📖|***science*** 🔬|
 |<span style="color:magenta">**10:10-11:00**</span>|***english*** 📖|***science*** 🔬|***science*** 🔬|***english*** 📖|***english*** 📖|
