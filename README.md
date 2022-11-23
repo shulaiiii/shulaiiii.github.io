@@ -51,7 +51,7 @@
 |<span style="color:magenta">**2:00-2:10**</span>|***examen***|***examen***|***examen***| |   |
 |<span style="color:magenta">**2:10-3:00**</span>||||***study period***|🎶***music***🎶|
 
-**<span style="color: pink">..............................................................</span>**
+**<span style="color: pink">..........................................................................</span>**
 
 - [✅] attend ansgo meetings
 - [✅] request budget proposals
@@ -59,7 +59,7 @@
 - [✅] participate in ansgo's activities
 - [✅] do tasks assigned to me
 
-**<span style="color: pink">..............................................................</span>**
+**<span style="color: pink">..........................................................................</span>**
 
 
 
