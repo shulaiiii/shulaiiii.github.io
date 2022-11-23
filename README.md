@@ -36,13 +36,13 @@
 **<span style="color: pink">...............................................................................................................................................................................................................................</span>**
 
 
-><span style="color: black">***Here's my Class Schedule and other schedules I have as a student leader; this shows how hectic a student's day can be.*** 🥱</span>
+><span style="color: grey">***Here's my Class Schedule and other schedules I have as a student leader; this shows how hectic a student's day can be.*** 🥱</span>
 
 **<span style="color: pink">...............................................................................................................................................................................................................................</span>**
 
 <span style="color:red">***MY CLASS SCHEDULE 📅***</span>
 
-|         |<span style="color:grey">**DAY 1 🌷**</span>| <span style="color:magenta">**DAY 2 ☀️**</span>| <span style="color:magenta">**DAY 3 🌼**</span> | <span style="color:magenta">**DAY 4 🌈**</span>|<span style="color:magenta">**DAY 5 👑**</span>| 
+|         |<span style="color:magenta">**DAY 1 🌷**</span>| <span style="color:magenta">**DAY 2 ☀️**</span>| <span style="color:magenta">**DAY 3 🌼**</span> | <span style="color:magenta">**DAY 4 🌈**</span>|<span style="color:magenta">**DAY 5 👑**</span>| 
 |---------|-----|------|------|------|------|
 |<span style="color:magenta">**7:35-8:00**</span>|***hr***|***hr***|***hr***|***hr***|***hr***|
 |<span style="color:magenta">**8:10-9:00**</span>|  🏃‍***pe***🏃‍|🎶***music***🎶|🏃‍***pe***🏃‍|***study period***|🔬***science***🔬|
