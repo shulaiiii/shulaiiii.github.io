@@ -33,14 +33,14 @@ I am in my 3rd year in High School - Grade 9. I chose to spend my four years of 
 |         |<span style="color:magenta">**DAY 1 🌷**</span>| <span style="color:magenta">**DAY 2 ☀️**</span>| <span style="color:magenta">**DAY 3 🌼**</span> | <span style="color:magenta">**DAY 4 🌈**</span>|<span style="color:magenta">**DAY 5 👑**</span>| 
 |---------|-----|------|------|------|------|
 |<span style="color:magenta">**7:35-8:00**</span>|  hr | hr |  hr  |  hr  |  hr  |
-|<span style="color:magenta">**8:10-9:00**</span>|  🏃‍pe🏃‍ |🎶music🎶|🏃‍pe🏃‍ |*study period*|🧪science🧪|
-|<span style="color:magenta">**9:10-10:00**</span>|✍️english✍️|🧪science🧪|✍️english✍️|✍️english✍️|🧪science🧪|
-|<span style="color:magenta">**10:10-11:00**</span>|✍️english✍️|🧪science🧪|🧪science🧪|✍️english✍️|✍️english✍️|
-|<span style="color:magenta">**11:10-12:00**</span>|lunch break|lunch break|lunch break|lunch break|lunch break|
-|<span style="color:magenta">**12:10-1:00**</span>|🧪science🧪|💻computer💻|🎶music🎶|💻computer💻|*study period*|
-|<span style="color:magenta">**1:10-2:00**</span>|🧪science🧪|✍️english✍️|💻computer💻|🏃‍pe🏃‍|💻computer💻|
-|<span style="color:magenta">**2:00-2:10**</span>|examen|examen|examen| |   |
-|<span style="color:magenta">**2:10-3:00**</span>||||*study period*|🎶music🎶|
+|<span style="color:magenta">**8:10-9:00**</span>|  🏃‍*pe*🏃‍|🎶*music*🎶|🏃‍*pe*🏃‍ |*study period*|🔬*science*🔬|
+|<span style="color:magenta">**9:10-10:00**</span>|📖*english*📖|🔬*science*🔬|📖*english*📖|📖*english*📖|🔬*science*🔬|
+|<span style="color:magenta">**10:10-11:00**</span>|📖*english*📖|🔬*science*🔬|🔬*science*🔬|📖*english*📖|📖*english*📖|
+|<span style="color:magenta">**11:10-12:00**</span>lunch break|lunch break|lunch break|lunch break|lunch break|
+|<span style="color:magenta">**12:10-1:00**</span>|🔬*science*🔬|💻*computer*💻|🎶*music*🎶|💻*computer*💻|*study period*|
+|<span style="color:magenta">**1:10-2:00**</span>|🔬*science*🔬|📖*english*📖|💻*computer*💻|🏃‍*pe*🏃‍|💻*computer*💻|
+|<span style="color:magenta">**2:00-2:10**</span>|*examen*|*examen*|*examen*| |   |
+|<span style="color:magenta">**2:10-3:00**</span>||||*study period*|🎶*music*🎶|
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/06HL4z0CvFAxyc27GXpf02?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
