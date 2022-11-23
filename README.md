@@ -2,11 +2,11 @@
 
 **<span style="color: pink">--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</span>**
 
->**Hey there!👋**
+><span style="color: black">**Hey there!👋**</span>
 
->*Welcome to my safe space ☁🍃*
+><span style="color: black">*Welcome to my safe space ☁🍃*</span>
 
->**Let me walk you through my life. ✨**
+><span style="color: black">**Let me walk you through my life. ✨**</span>
   
 
 <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/311919299_463087552599637_1673785629296877521_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHEcXyCQk4Axz3H367qj0J-DWpcadHqBPUNalxp0eoE9ZrPDtKIHCeIt1i59VNdOaJBMmgKfBcrEvF9ZuVDET-T&_nc_ohc=XrYXI3DSRgIAX9Wl8sE&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdSW4vnNTV5LBRwB0T0KytiSZp4OPmkHhfN1O5Ei_tz59g&oe=63A56625" data-canonical-src="![image](![image](https://user-images.githubusercontent.com/118333524/203514584-662ea5d2-f236-4a68-8e52-89a5266bcf70.png)
@@ -33,7 +33,7 @@
 
 **<span style="color: pink">...............................................................................................................................................................................................................................</span>**
 
-><span style="color: magenta">***Here's my Class Schedule and other schedules I have as a student leader; this shows how hectic a student's day can be.*** 🥱</span>
+><span style="color: black">***Here's my Class Schedule and other schedules I have as a student leader; this shows how hectic a student's day can be.*** 🥱</span>
 
 
 
