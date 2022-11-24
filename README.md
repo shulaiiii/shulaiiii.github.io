@@ -79,6 +79,8 @@
 - 📄 google docs [<span style="color:grey">`gdocs`</span>](https://docs.google.com/document/u/0/?tgif=d)
 - 👩‍🏫 google classroom [<span style="color:grey">`gclassroom`</span>](https://classroom.google.com/u/0/h)
 - 🖼️ canva [<span style="color:grey">`canva`</span>](https://www.canva.com/)
+- 📹 meet [<span style="color:grey">`meet`</span>](https://meet.google.com/?hs=197&pli=1&authuser=0)
+- 📹 zoom [<span style="color:grey">`zoom`</span>](https://us05web.zoom.us/)
 
 
 
