@@ -17,7 +17,7 @@
 
 **<span style="color: pink">--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</span>**
 
-<span style="color: magenta">*I am Shulaika Althea C. Almazar, you can call me Shulaika, but I prefer you call me Shulai/Lai 💐*</span>
+<span style="color: magenta">*I am Shulaika Althea C. Almazar, you can call me Shulai/Lai. 💐*</span>
 
 <span style="color: magenta">*Never call me Althea, just kidding 🤭*</span>
   
@@ -27,18 +27,20 @@
 
 **<span style="color: pink">...............................................................................................................................................................................................................................</span>**
 
-*I am in my 3rd year in High School - Grade 9. I chose to spend my four years of high school life at Ateneo de Naga University Junior High School. 🏫 Let's talk about my experiences as a student.* 👧
+*I am in my 3rd year in High School - Grade 9. I chose to spend my four years of high school life at Ateneo de Naga University Junior High School. 🏫 Here's a brief glimpse of how my high school life is going on right now.* 👧🤯
 
 **<span style="color: pink">-shushu says-</span>**
 
-***Being a student is one of the most meaningful things we can be in life, I suppose. However, it can also be a phase wherein we may encounter the most tragic moments. But take this tip from me, we can only live the fullest of our high school years if we try. Here, we may meet the people who will stay with us until we grow up or the people who will be with us temporarily to teach us the things we need to learn about life, but we shall always learn to cherish them. In short, being in high school is both a magic and a scary moment; but we shall never be afraid.*** 📖✨
+***Being a student is one of the most meaningful things we can be in life, I suppose. However, it can also be a phase wherein we may encounter the most tragic moments in our lives. Yet take this tip from me: we can only live the fullest of our high school years if we try our best to achieve so. You might notice how we may meet the people who will stay with us until our grown-up years or, sadly, the people who will be with us temporarily to teach us the things we need to learn about life. Nevertheless, we shall always learn to cherish each of them, and the same goes for every experience we encounter, whether good or bad.*** 
+
+***In short, being in high school is both a magic and a terrifying moment; but we shall never be too afraid to live in it.*** 📖✨
 
 **<span style="color: pink">...............................................................................................................................................................................................................................</span>**
 
 
-<span style="color: grey">***`Here's my Class Schedule and other schedules I have as a student leader; this shows how hectic a student's day can be.*** 🥱`</span>
+<span style="color: grey">***Here's my Class Schedule and other things I have as a student leader; this shows how hectic a student's day can be.*** 🥱</span>
 
-**<span style="color: pink">...............................................................................................................................................................................................................................</span>**
+**<span style="color: pink">--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</span>**
 
 <span style="color:red">***MY CLASS SCHEDULE 📅***</span>
 
@@ -65,8 +67,6 @@
 - [✅] do tasks assigned to me
 
 **<span style="color: pink">--------------------------------------------------------------------------</span>**
-
-**<span style="color: pink">...............................................................................................................................................................................................................................</span>**
 
 ><span style="color: grey">***Essentials for my so-called "high school life" 🎒***</span>
 
