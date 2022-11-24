@@ -73,7 +73,7 @@
 **<span style="color: pink">--------------------------------------------------------------------------</span>**
 
 - 💻 learning management system [<span style="color:grey">`lms`</span>](https://jhsportal.adnu.edu.ph/my/)
-- 💻 jhs portal [<span style="color:grey">`portal`</span>](https://jhsos.adnu.edu.ph/)
+- 💻 jhs online system [<span style="color:grey">`jhsos`</span>](https://jhsos.adnu.edu.ph/)
 - 📩 gmail [<span style="color:grey">`gbox`</span>](https://mail.google.com/mail/u/0/#inbox)
 - 📂 google drive [<span style="color:grey">`gdrive`</span>](https://drive.google.com/drive/u/0/my-drive)
 - 📄 google docs [<span style="color:grey">`gdocs`</span>](https://docs.google.com/document/u/0/?tgif=d)
