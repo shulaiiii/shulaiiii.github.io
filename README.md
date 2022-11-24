@@ -86,7 +86,7 @@
 
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6oMW3QAs99PBpVfrapWXrZ?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6oMW3QAs99PBpVfrapWXrZ?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> ***## “It wasn’t just school to me, it was the chapter I never wanted to end.” – Unknown***
 
 
 **<span style="color: pink">...............................................................................................................................................................................................................................</span>**
